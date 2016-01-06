@@ -1,0 +1,6 @@
+.result-holder {
+  overflow: auto;
+  border: solid 1px #eee;
+  padding: 20px;
+  margin: 20px;
+}
